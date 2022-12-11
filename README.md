@@ -1,5 +1,5 @@
 ## Total Taiwan Coronavirus Cases Forecasting 
-<p>Using raw data from <a href="https://github.com/CSSEGISandData/COVID-19" title="">Johns Hopkins University</a> to predict exponential growth with data through <strong>September 30</strong> for total cases in Taiwan.用最小平方法預測台灣疫情總確診數</p>
+<p>Using raw data from <a href="https://github.com/CSSEGISandData/COVID-19" title="">Johns Hopkins University</a> to predict exponential growth with data through <strong>September 30</strong> for total cases in Taiwan.<br>用最小平方法預測台灣疫情總確診數</p>
 
 
 ## Data Cleaning
