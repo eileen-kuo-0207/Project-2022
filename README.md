@@ -46,3 +46,6 @@ $𝑓(𝑥)= 𝑎𝑏^{𝑥}$
 
 ## Predicting unseen data
 
+>Stop the time at July 30 and see what the unseen model predicts
+  
+<img src="https://github.com/eileen-kuo-0207/Project-2022/blob/65d914c5d000be7b43dcb589cf0fccdd5913060c/predict%20unseen%20data.png" alt="GitHub" title="width='800'" height="400"/>
