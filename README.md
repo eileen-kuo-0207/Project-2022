@@ -21,11 +21,6 @@ $𝑓(𝑥)= 𝑎𝑏^{𝑥}$
 <br>
 <strong>𝑥</strong> - time 
 
-## Set Arguments
-<strong>x</strong>: <strong>x-values</strong> as time
-<br>
-<strong>y</strong>: <strong>y-values</strong> as cases
-
 ## Create model using `least_squared` function 
 
 >Step 1 - Create simple exponential function
@@ -37,18 +32,17 @@ $𝑓(𝑥)= 𝑎𝑏^{𝑥}$
 >Step 4 - Set arguments: <strong>x-values</strong> as *time* , <strong>y-values</strong> as *cases* to pass into error function
 
 >Step 5 - Set lower and upper bounds 
-+ set `lower bound` as `1` 
-+ set `upper bound` as `infinity` for <strong>a</strong> , and `10` percent for <strong>b</strong>
++ set `lower bound` as <strong>1</strong> 
++ set `upper bound` as <strong>infinity</strong> for <strong>a</strong> , and <strong>10%</strong> for <strong>b</strong>
 
 >Step 6 - Return model `least_squared` errors
 
-
-<br>
 <img src="https://github.com/eileen-kuo-0207/Project-2022/blob/27e3e382a5fd6c034588413915267d5579696df1/create%20model.png" alt="GitHub" title="width='600'" height="300"/>
 <br>
 
-#### This model shows the growth rate to be around 1.1% per day beginning at an initial value about 10,000.
+> <strong>This model shows the growth rate to be around 1.1% per day beginning at an initial value about 10,000.<strong>
 
 <img src="https://github.com/eileen-kuo-0207/Project-2022/blob/a3bd13dd0fac6233b443e97fb48708479fb9e9a1/create%20model%202.png" alt="GitHub" title="width='600'" height="300"/>
 
+## Predicting unseen data
 
